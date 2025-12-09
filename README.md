@@ -5,7 +5,7 @@ Kezdő fejlesztő vagyok, tele megvalósításra váró ötletekkel.
 Folyamatosan tanulok, építem az első projektjeimet, és igyekszem minden nap fejlődni.
 
 - 🔭 Jelenleg dolgozom: kisebb tanulóprojekteken  
-- 🌱 Most tanulom: JavaScript / Python / HTML & CSS  
+- 🌱 Most tanulom: Java / Python / C++ 
 - 🤝 Szívesen együttműködöm: bárkivel, aki kezdőként vagy haladóként segít vagy inspirál  
 - 💬 Kérdezz bátran: kezdő projektek, ötletelés  
 - 📫 Dc:mekercs
