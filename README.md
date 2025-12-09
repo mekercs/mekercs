@@ -1,16 +1,14 @@
-## Hi there 👋
+## Szia! 👋 Köszönöm, hogy benéztél!
 
 <!--
-**mekercs/mekercs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kezdő fejlesztő vagyok, tele megvalósításra váró ötletekkel.  
+Folyamatosan tanulok, építem az első projektjeimet, és igyekszem minden nap fejlődni.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Jelenleg dolgozom: kisebb tanulóprojekteken  
+- 🌱 Most tanulom: JavaScript / Python / HTML & CSS  
+- 🤝 Szívesen együttműködöm: bárkivel, aki kezdőként vagy haladóként segít vagy inspirál  
+- 💬 Kérdezz bátran: kezdő projektek, ötletelés  
+- 📫 Dc:mekercs
+- 📫 Email: dkherencsar@gmail.com
+- ⚡ Fun fact: ha egyszer belekezdek valamibe, addig csinálom, amíg nem működik 😄
 -->
